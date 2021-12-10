@@ -1,0 +1,23 @@
+{
+  "name": "seeded-randomness-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siko91/seeded-randomness-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siko91/seeded-randomness-generator/issues"
+  },
+  "homepage": "https://github.com/Siko91/seeded-randomness-generator#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "typescript": "^4.5.3"
+  }
+}
